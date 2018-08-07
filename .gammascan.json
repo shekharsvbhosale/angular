@@ -1,0 +1,22 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.232:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin123"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "a4fc5d8effd094d1f85bc5dbbd73f0f9",
+			"projectName": "JenkinsPlugin_TS_Angular",
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\TypeScript\\Angular-dataDir",
+		"modules": {
+			"codeissues": [{
+				"name": "tslint"
+			}]
+		}
+	}]
+}
